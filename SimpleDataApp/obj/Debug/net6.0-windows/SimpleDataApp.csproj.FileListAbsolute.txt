@@ -1,0 +1,54 @@
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.exe
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.dll.config
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.deps.json
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.runtimeconfig.json
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.pdb
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.AssemblyReference.cache
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.FillorCancel.resources
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.Navigation.resources
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.NewCustomer.resources
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.AssemblyInfoInputs.cache
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.AssemblyInfo.cs
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.CopyComplete
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\refint\SimpleDataApp.dll
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.pdb
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.genruntimeconfig.cache
+C:\Users\fskid\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\ref\SimpleDataApp.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.exe
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.dll.config
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.deps.json
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.runtimeconfig.json
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\SimpleDataApp.pdb
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.AssemblyReference.cache
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.FillorCancel.resources
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.Navigation.resources
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.NewCustomer.resources
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.AssemblyInfoInputs.cache
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.AssemblyInfo.cs
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.csproj.CopyComplete
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\refint\SimpleDataApp.dll
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.pdb
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\SimpleDataApp.genruntimeconfig.cache
+C:\Users\fskid\OneDrive\Documents\Windows Programming\Homework Five\SimpleDataApp\SimpleDataApp\obj\Debug\net6.0-windows\ref\SimpleDataApp.dll
